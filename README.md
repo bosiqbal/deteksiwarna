@@ -1,3 +1,6 @@
+berikut adalah coding untuk mendeteksi gambar tomat yang matang dan tidak matang
+
+
 import cv2
 import numpy as np
 from google.colab.patches import cv2_imshow
